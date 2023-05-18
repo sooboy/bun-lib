@@ -6,7 +6,7 @@ Click the [Use this template](https://github.com/wobsoriano/bun-lib-starter/gene
 
 OR
 
-Run `bun create wobsoriano/bun-lib-starter ./my-lib`.
+Run `bun create sooboy/bun-lib ./my-lib`.
 
 ## Features
 
