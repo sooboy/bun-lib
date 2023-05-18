@@ -25,13 +25,13 @@
     "bun"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/wobsoriano/pkg-name#readme",
+  "homepage": "https://github.com/sooboy/pkg-name#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wobsoriano/pkg-name.git"
+    "url": "git+https://github.com/sooboy/pkg-name.git"
   },
-  "bugs": "https://github.com/wobsoriano/pkg-name/issues",
-  "author": "Robert Soriano <sorianorobertc@gmail.com>",
+  "bugs": "https://github.com/sooboy/pkg-name/issues",
+  "author": "Regan Qi <sooboy@foxmail.com>",
   "devDependencies": {
     "bun-types": "^0.1.4",
     "bumpp": "^8.2.1",
