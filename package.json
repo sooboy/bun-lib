@@ -36,6 +36,8 @@
   "devDependencies": {
     "bun-types": "^0.6.2",
     "typescript": "^5.0.4",
+    "bumpp": "^9.1.0",
+    "tsup": "^6.7.0",
     "dts-bundle-generator": "^8.0.1"
   }
 }
